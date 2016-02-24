@@ -1,0 +1,200 @@
+.index_header {
+    width: 100%;
+    height: 600px;
+    background-image: url("../static/BG.png");
+    background-repeat: no-repeat;
+    background-size: 100% 600px;
+    text-align: center;
+    position: relative;
+}
+
+.index_header_cover {
+    background-color: rgba(29,30,45,0.5);
+    width: 100%;
+    height: 600px;
+}
+
+.index_header_name_container {
+    margin-top: 30px;
+    margin-bottom: 200px;
+}
+
+.index_header h1 {
+    color: white;
+    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-size: 50px;
+}
+
+.index_header h3 {
+    color: white;
+    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+    opacity: 0.9;
+}
+
+.index_header h4 {
+    color: white;
+    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+.m40 {
+    margin-top: 25px;
+}
+
+.index_header h5 {
+    color: white;
+    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    opacity: 0.9;
+}
+
+
+.index_header_app_btn_apple {
+    margin-top: 10px;
+    margin-right: 2px;
+    width: 150px;
+}
+
+.index_header_app_btn_google {
+    margin-top: 10px;
+    width: 150px;
+    height: 44px;
+    border: 1px solid #AAAAAA;
+    border-radius: 5px;
+    background-color: black;
+}
+
+.index_nextButton {
+    position: absolute;
+    bottom: -25px;
+    left: 50%;
+    margin-left: -25px;
+    width: 50px;
+    height: 50px;
+    border: 3px solid rgb(255, 32, 37);
+    border-radius: 25px;
+    background-color: white;
+    color: rgb(255, 32, 37);
+    font-size: 25px;
+    padding-left: 2px;
+    padding-top: 7px;
+}
+
+.index_nextButton:hover {
+    color: rgb(255, 32, 37);
+    cursor: pointer;
+}
+
+.index_nextButton:focus {
+    color: rgb(255, 32, 37);
+}
+
+.index_nextButton:active {
+    background-color: #EEEEEE;
+}
+
+.index_toContactsButton {
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    width: 150px;
+    height: 40px;
+    border: 1px solid #AAAAAA;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    color: #CCCCCC;
+    padding-top: 6px;
+    font-family: Helvetica Neue, Aerial, sans-serif;
+}
+
+.index_toContactsButton:hover {
+    color: #CCCCCC;
+    cursor: pointer;
+}
+
+.index_toContactsButton:focus {
+    color: #CCCCCC;
+}
+
+.index_toContactsButton:active {
+    color: #AAAAAA;
+}
+
+.index_section {
+    margin-top: 50px;
+}
+
+.index_section .container {
+    border-bottom: 1px solid #DDDDDD;
+}
+
+.index_phone_container {
+    height: 500px;
+}
+
+.index_section_header {
+    color: rgb(255, 32, 37);
+    font-size: 25px;
+    font-family: Helvetica Neue, Aerial, sans-serif;
+}
+
+.index_section_description {
+    margin-top: 20px;
+    color: rgb(74, 80, 90);
+    font-size: 20px;
+    font-family: Helvetica Neue, Aerial, sans-serif;
+}
+
+.index_section_benefits {
+    margin-top: 30px;
+    color: rgb(29, 30, 45);
+    font-size: 25px;
+    font-family: Helvetica Neue, Aerial, sans-serif;
+}
+
+.index_benefit_container {
+    color: rgb(74, 80, 90);
+    height: 200px;
+    margin-bottom: 30px;
+    font-size: 15px;
+    font-family: Helvetica Neue, Aerial, sans-serif;
+    vertical-align: bottom;
+}
+
+.index_benefit_img {
+    height: 160px;
+    margin-bottom: 10px;
+}
+
+.index_footer {
+
+}
+
+.index_contact_header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(74, 80, 90);
+    font-size: 15px;
+    font-family: Helvetica Neue, Aerial, sans-serif;
+}
+
+.index_contact_social {
+    color: rgb(74, 80, 90);
+    margin-bottom: 10px;
+}
+
+.index_contact_icon {
+    color: rgb(74, 80, 90);
+    margin-right: 10px;
+}
+
+.index_contact_email {
+    width: 100%;
+    font-size: 18px;
+    display: inline-block;
+}

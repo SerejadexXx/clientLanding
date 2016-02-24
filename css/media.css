@@ -1,0 +1,53 @@
+@media(max-width:350px){
+    .index_header_app_btn_apple {
+        width: 130px;
+    }
+    .index_header_app_btn_google {
+        width: 130px;
+        height: 39px
+    }
+}
+@media(max-width:767px){
+    .index_contact_header {
+        text-align: center;
+    }
+    .index_contact_email {
+        text-align: center;
+    }
+}
+@media(min-width:768px){
+    .index_header_name_container {
+        margin-bottom: 240px;
+    }
+    .index_phone_container {
+        height: 400px;
+        margin-top: 100px;
+    }
+    .index_contact_email {
+        text-align: left;
+    }
+}
+@media(min-width:992px){
+    .index_header_name_container {
+        margin-bottom: 240px;
+    }
+    .index_phone_container {
+        height: 500px;
+        margin-top: 50px;
+    }
+    .index_contact_email {
+        text-align: left;
+    }
+}
+@media(min-width:1200px){
+    .index_header_name_container {
+        margin-bottom: 240px;
+    }
+    .index_phone_container {
+        height: 500px;
+        margin-top: 50px;
+    }
+    .index_contact_email {
+        text-align: left;
+    }
+}
