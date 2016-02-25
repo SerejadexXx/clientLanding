@@ -165,9 +165,14 @@
     vertical-align: bottom;
 }
 
+.index_benefit_img_wrapper {
+    position: relative;
+    height: 170px;
+}
 .index_benefit_img {
     height: 160px;
-    margin-bottom: 10px;
+    display:table-cell;
+    vertical-align:middle;
 }
 
 .index_footer {
