@@ -7,15 +7,14 @@
         <path id="path-1" d="M9.18,10.2781132 C10.7405714,10.2781132 12.0057143,9.03735849 12.0057143,7.50707547 C12.0057143,5.97679245 10.7405714,4.73603774 9.18,4.73603774 C7.61942857,4.73603774 6.35428571,5.97679245 6.35428571,7.50707547 C6.35428571,9.03735849 7.61942857,10.2781132 9.18,10.2781132 L9.18,10.2781132 Z"></path>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-285.000000, -16.000000)">
-            <g id="Social-colored" sketch:type="MSLayerGroup" transform="translate(67.000000, 16.000000)">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-285.000000, -106.000000)">
+            <g id="Social-orange" sketch:type="MSLayerGroup" transform="translate(67.000000, 106.000000)">
                 <g id="Periscope" transform="translate(218.000000, 0.000000)">
-                    <path d="M12.1722857,29.9264151 C14.5197143,29.9264151 23.8225714,19.4753774 23.8225714,12.4681132 C23.8225714,5.76084906 18.532,0.201792453 12.1722857,0.201792453 C5.47942857,0.201792453 0.188857143,5.76084906 0.188857143,12.4681132 C0.188857143,19.4753774 9.492,29.9264151 12.1722857,29.9264151 L12.1722857,29.9264151 Z" id="Clip-2" fill="#3B93B1" sketch:type="MSShapeGroup"></path>
-                    <ellipse id="Oval-1" fill="#D95344" sketch:type="MSShapeGroup" cx="12.1428571" cy="12.0283019" rx="7.28571429" ry="7.21698113"></ellipse>
+                    <path d="M12.1722857,29.9264151 C14.5197143,29.9264151 23.8225714,19.4753774 23.8225714,12.4681132 C23.8225714,5.76084906 18.532,0.201792453 12.1722857,0.201792453 C5.47942857,0.201792453 0.188857143,5.76084906 0.188857143,12.4681132 C0.188857143,19.4753774 9.492,29.9264151 12.1722857,29.9264151 Z M12.1428571,19.245283 C16.166646,19.245283 19.4285714,16.0141305 19.4285714,12.0283019 C19.4285714,8.04247327 16.166646,4.81132075 12.1428571,4.81132075 C8.11906825,4.81132075 4.85714286,8.04247327 4.85714286,12.0283019 C4.85714286,16.0141305 8.11906825,19.245283 12.1428571,19.245283 Z" id="Clip-2" fill="#FF2025" sketch:type="MSShapeGroup"></path>
                     <mask id="mask-2" sketch:name="Clip 10" fill="white">
                         <use xlink:href="#path-1"></use>
                     </mask>
-                    <use id="Clip-10" fill="#FFFFFF" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <use id="Clip-10" fill="#FF2025" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
                 </g>
             </g>
         </g>
