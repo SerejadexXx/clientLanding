@@ -210,11 +210,11 @@ a:hover, a:visited, a:link, a:active {
     display: inline-block;
 }
 
-.index_contact_icon:active #idFacebookIcon {
+.index_contact_icon:hover #idFacebookIcon, .index_contact_icon:active #idFacebookIcon {
     display: inline-block;
 }
 
-.index_contact_icon:active #idFacebookIconDisabled {
+.index_contact_icon:hover #idFacebookIconDisabled, .index_contact_icon:active #idFacebookIconDisabled {
     display: none;
 }
 
@@ -226,11 +226,11 @@ a:hover, a:visited, a:link, a:active {
     display: inline-block;
 }
 
-.index_contact_icon:active #idTwitterIcon {
+.index_contact_icon:hover #idTwitterIcon, .index_contact_icon:active #idTwitterIcon {
     display: inline-block;
 }
 
-.index_contact_icon:active #idTwitterIconDisabled {
+.index_contact_icon:hover #idTwitterIconDisabled, .index_contact_icon:active #idTwitterIconDisabled {
     display: none;
 }
 
@@ -242,11 +242,11 @@ a:hover, a:visited, a:link, a:active {
     display: inline-block;
 }
 
-.index_contact_icon:active #idInstagramIcon {
+.index_contact_icon:hover #idInstagramIcon, .index_contact_icon:active #idInstagramIcon {
     display: inline-block;
 }
 
-.index_contact_icon:active #idInstagramIconDisabled {
+.index_contact_icon:hover #idInstagramIconDisabled, .index_contact_icon:active #idInstagramIconDisabled {
     display: none;
 }
 
@@ -258,11 +258,11 @@ a:hover, a:visited, a:link, a:active {
     display: inline-block;
 }
 
-.index_contact_icon:active #idYoutubeIcon {
+.index_contact_icon:hover #idYoutubeIcon, .index_contact_icon:active #idYoutubeIcon {
     display: inline-block;
 }
 
-.index_contact_icon:active #idYoutubeIconDisabled {
+.index_contact_icon:hover #idYoutubeIconDisabled, .index_contact_icon:active #idYoutubeIconDisabled {
     display: none;
 }
 
@@ -274,10 +274,10 @@ a:hover, a:visited, a:link, a:active {
     display: inline-block;
 }
 
-.index_contact_icon:active #idPeriscopeIcon {
+.index_contact_icon:hover #idPeriscopeIcon, .index_contact_icon:active #idPeriscopeIcon {
     display: inline-block;
 }
 
-.index_contact_icon:active #idPeriscopeIconDisabled {
+.index_contact_icon:hover #idPeriscopeIconDisabled, .index_contact_icon:active #idPeriscopeIconDisabled {
     display: none;
 }
