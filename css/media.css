@@ -23,6 +23,10 @@
         background-size: 1200px 750px;
         background-position: -400px 0;
     }
+
+    .index_benefit_img_wrapper {
+        height: auto;
+    }
 }
 @media(min-width:768px){
     .index_header_name_container {
