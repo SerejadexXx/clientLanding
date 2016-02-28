@@ -21,13 +21,13 @@
 
 .index_header h1 {
     color: white;
-    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-family: 'Lato', Helvetica Neue, Aerial, sans-serif;
     font-size: 50px;
 }
 
 .index_header h3 {
     color: white;
-    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-family: 'Lato', Helvetica Neue, Aerial, sans-serif;
     font-size: 30px;
     letter-spacing: 2px;
     opacity: 0.9;
@@ -35,7 +35,7 @@
 
 .index_header h4 {
     color: white;
-    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-family: 'Lato', Helvetica Neue, Aerial, sans-serif;
     font-size: 25px;
     letter-spacing: 1px;
 }
@@ -46,7 +46,7 @@
 
 .index_header h5 {
     color: white;
-    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-family: 'Lato', Helvetica Neue, Aerial, sans-serif;
     font-size: 20px;
     letter-spacing: 1px;
     opacity: 0.9;
@@ -108,7 +108,7 @@
     font-size: 16px;
     color: #CCCCCC;
     padding-top: 6px;
-    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-family: 'Lato', Helvetica Neue, Aerial, sans-serif;
 }
 
 .index_toContactsButton:hover {
@@ -139,21 +139,21 @@
 .index_section_header {
     color: rgb(255, 32, 37);
     font-size: 25px;
-    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-family: 'Lato', Helvetica Neue, Aerial, sans-serif;
 }
 
 .index_section_description {
     margin-top: 20px;
     color: rgb(74, 80, 90);
     font-size: 20px;
-    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-family: 'Lato', Helvetica Neue, Aerial, sans-serif;
 }
 
 .index_section_benefits {
     margin-top: 30px;
     color: rgb(29, 30, 45);
     font-size: 25px;
-    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-family: 'Lato', Helvetica Neue, Aerial, sans-serif;
 }
 
 .index_benefit_container {
@@ -161,7 +161,7 @@
     height: 200px;
     margin-bottom: 30px;
     font-size: 15px;
-    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-family: 'Lato', Helvetica Neue, Aerial, sans-serif;
     vertical-align: bottom;
 }
 
@@ -184,7 +184,7 @@
     margin-bottom: 10px;
     color: rgb(74, 80, 90);
     font-size: 15px;
-    font-family: Helvetica Neue, Aerial, sans-serif;
+    font-family: 'Lato', Helvetica Neue, Aerial, sans-serif;
 }
 
 .index_contact_social {
