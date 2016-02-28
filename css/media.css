@@ -6,10 +6,6 @@
         width: 130px;
         height: 39px
     }
-    .index_header {
-        background-size: 500px 600px;
-        background-position: -100px 0;
-    }
 }
 @media(max-width:767px){
     .index_contact_header {
@@ -20,8 +16,8 @@
         text-align: center;
     }
     .index_header {
-        background-size: 1200px 750px;
-        background-position: -400px 0;
+        background-size: 1200px 850px;
+        background-position: -300px 0;
     }
 
     .index_benefit_img_wrapper {
@@ -69,5 +65,9 @@
     }
     .index_contact_email {
         text-align: left;
+    }
+    .index_header {
+        background-size: 100% 800px;
+        background-position: 0 -100px;
     }
 }
