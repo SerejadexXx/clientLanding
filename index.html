@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/media.css">
     <script src="js/analytics.js"></script>
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.0/jquery.scrollTo.min.js"></script>
 </head>
 <body>
     <div class="index_header">
@@ -46,10 +48,14 @@
                     </h5>
                 </div>
             </div>
-            <a class="index_nextButton" href="#index_id_section">
+            <a class="index_nextButton"
+               onclick="$(window).scrollTo(document.getElementById('index_id_section'), 800)"
+               href="#">
                 <img src='static/chevronDown.svg'>
             </a>
-            <a class="index_toContactsButton hidden-xs" href="#index_id_footer">
+            <a onclick="$(window).scrollTo(document.getElementById('index_id_footer'), 400)"
+               href="#"
+               class="index_toContactsButton hidden-xs">
                 Contact us
             </a>
         </div>
