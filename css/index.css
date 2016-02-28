@@ -68,6 +68,10 @@
     background-color: black;
 }
 
+button.index_nextButton {
+    padding: 0;
+}
+
 .index_nextButton {
     position: absolute;
     bottom: -25px;
