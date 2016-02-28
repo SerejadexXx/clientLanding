@@ -48,15 +48,16 @@
                     </h5>
                 </div>
             </div>
-            <button class="index_nextButton"
-               onclick="$(window).scrollTo(document.getElementById('index_id_section'), 200)">
+            <button
+                    class="index_nextButton"
+                    onclick="$(window).scrollTo(document.getElementById('index_id_section'), 200, {interrupt: true})">
                 <img src='static/chevronDown.svg'>
             </button>
-            <a onclick="$(window).scrollTo(document.getElementById('index_id_footer'), 200)"
-               href="#"
-               class="index_toContactsButton hidden-xs">
+            <button
+                    onclick="$(window).scrollTo(document.getElementById('index_id_footer'), 200, {interrupt: true})"
+                    class="index_toContactsButton hidden-xs">
                 Contact us
-            </a>
+            </button>
         </div>
     </div>
     <div class="index_section" id="index_id_section">

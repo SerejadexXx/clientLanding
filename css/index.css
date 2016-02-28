@@ -99,6 +99,11 @@ button.index_nextButton {
     background-color: #EEEEEE;
 }
 
+button.index_toContactsButton {
+    padding: 0;
+    background-color: transparent;
+}
+
 .index_toContactsButton {
     position: absolute;
     top: 40px;
