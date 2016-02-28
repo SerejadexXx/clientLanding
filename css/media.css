@@ -27,6 +27,13 @@
     .index_benefit_img_wrapper {
         height: auto;
     }
+
+    .index_benefit_container {
+        height: auto;
+    }
+    .index_benefit_img {
+        height: auto;
+    }
 }
 @media(min-width:768px){
     .index_header_name_container {

@@ -195,6 +195,8 @@
 .index_contact_icon {
     color: rgb(74, 80, 90);
     margin-right: 10px;
+    background-color: white;
+    border: none;
 }
 
 .index_contact_email {
@@ -203,86 +205,62 @@
     display: inline-block;
 }
 
-a:hover, a:visited, a:link, a:active {
-    text-decoration: none;
+button:focus { outline: none; }
+
+.facebookIcon {
+    width: 20px;
+    height: 35px;
+    background-image: url("../static/facebookIcon.png");
+    background-repeat: no-repeat;
 }
 
-#idFacebookIcon {
-    display: none;
+.facebookIcon:hover, .facebookIcon:active {
+    background-image: url("../static/facebookIconActive.png");
 }
 
-#idFacebookIconDisabled {
-    display: inline-block;
+.twitterIcon {
+    width: 35px;
+    height: 35px;
+    background-image: url("../static/twitterIcon.png");
+    background-repeat: no-repeat;
 }
 
-.index_contact_icon:hover #idFacebookIcon, .index_contact_icon:active #idFacebookIcon {
-    display: inline-block;
+.twitterIcon:hover, .twitterIcon:active {
+    background-image: url("../static/twitterIconActive.png");
 }
 
-.index_contact_icon:hover #idFacebookIconDisabled, .index_contact_icon:active #idFacebookIconDisabled {
-    display: none;
+
+.instagramIcon {
+    width: 35px;
+    height: 35px;
+    background-image: url("../static/instagramIcon.png");
+    background-repeat: no-repeat;
 }
 
-#idTwitterIcon {
-    display: none;
+.instagramIcon:hover, .instagramIcon:active {
+    background-image: url("../static/instagramIconActive.png");
 }
 
-#idTwitterIconDisabled {
-    display: inline-block;
+
+.youtubeIcon {
+    width: 35px;
+    height: 35px;
+    background-image: url("../static/youtubeIcon.png");
+    background-repeat: no-repeat;
 }
 
-.index_contact_icon:hover #idTwitterIcon, .index_contact_icon:active #idTwitterIcon {
-    display: inline-block;
+.youtubeIcon:hover, .youtubeIcon:active {
+    background-image: url("../static/youtubeIconActive.png");
 }
 
-.index_contact_icon:hover #idTwitterIconDisabled, .index_contact_icon:active #idTwitterIconDisabled {
-    display: none;
+
+.periscopeIcon {
+    width: 35px;
+    height: 35px;
+    background-image: url("../static/periscopeIcon.png");
+    background-repeat: no-repeat;
 }
 
-#idInstagramIcon {
-    display: none;
-}
-
-#idInstagramIconDisabled {
-    display: inline-block;
-}
-
-.index_contact_icon:hover #idInstagramIcon, .index_contact_icon:active #idInstagramIcon {
-    display: inline-block;
-}
-
-.index_contact_icon:hover #idInstagramIconDisabled, .index_contact_icon:active #idInstagramIconDisabled {
-    display: none;
-}
-
-#idYoutubeIcon {
-    display: none;
-}
-
-#idYoutubeIconDisabled {
-    display: inline-block;
-}
-
-.index_contact_icon:hover #idYoutubeIcon, .index_contact_icon:active #idYoutubeIcon {
-    display: inline-block;
-}
-
-.index_contact_icon:hover #idYoutubeIconDisabled, .index_contact_icon:active #idYoutubeIconDisabled {
-    display: none;
-}
-
-#idPeriscopeIcon {
-    display: none;
-}
-
-#idPeriscopeIconDisabled {
-    display: inline-block;
-}
-
-.index_contact_icon:hover #idPeriscopeIcon, .index_contact_icon:active #idPeriscopeIcon {
-    display: inline-block;
-}
-
-.index_contact_icon:hover #idPeriscopeIconDisabled, .index_contact_icon:active #idPeriscopeIconDisabled {
-    display: none;
+.periscopeIcon:hover, .periscopeIcon:active {
+    background-image: url("../static/periscopeIconActive.png");
 }
