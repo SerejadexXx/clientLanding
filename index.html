@@ -49,11 +49,11 @@
                 </div>
             </div>
             <a class="index_nextButton"
-               onclick="$(window).scrollTo(document.getElementById('index_id_section'), 200)"
+               onclick="$(window).scrollTo(document.getElementById('index_id_section'), 500, {interrupt: true})"
                href="#">
                 <img src='static/chevronDown.svg'>
             </a>
-            <a onclick="$(window).scrollTo(document.getElementById('index_id_footer'), 200)"
+            <a onclick="$(window).scrollTo(document.getElementById('index_id_footer'), 500, {interrupt: true})"
                href="#"
                class="index_toContactsButton hidden-xs">
                 Contact us
