@@ -30,6 +30,10 @@
     .index_benefit_img {
         height: auto;
     }
+
+    .index_contact_email {
+        height: 35px;
+    }
 }
 @media(min-width:768px){
     .index_header_name_container {
