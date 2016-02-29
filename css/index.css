@@ -226,10 +226,11 @@ a:hover.index_contact_email, a:active.index_contact_email, a:visited.index_conta
 button:focus { outline: none; }
 
 .facebookIcon {
-    width: 20px;
+    width: 35px;
     height: 35px;
     background-image: url("../static/facebookIcon.png");
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 .facebookIcon:hover, .facebookIcon:active, .facebookIcon:focus {
