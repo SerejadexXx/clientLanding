@@ -232,7 +232,7 @@ button:focus { outline: none; }
     background-repeat: no-repeat;
 }
 
-.facebookIcon:hover, .facebookIcon:active {
+.facebookIcon:hover, .facebookIcon:active, .facebookIcon:focus {
     background-image: url("../static/facebookIconActive.png");
 }
 
@@ -243,7 +243,7 @@ button:focus { outline: none; }
     background-repeat: no-repeat;
 }
 
-.twitterIcon:hover, .twitterIcon:active {
+.twitterIcon:hover, .twitterIcon:active, .twitterIcon:focus {
     background-image: url("../static/twitterIconActive.png");
 }
 
@@ -255,7 +255,7 @@ button:focus { outline: none; }
     background-repeat: no-repeat;
 }
 
-.instagramIcon:hover, .instagramIcon:active {
+.instagramIcon:hover, .instagramIcon:active, .instagramIcon:focus {
     background-image: url("../static/instagramIconActive.png");
 }
 
@@ -267,7 +267,7 @@ button:focus { outline: none; }
     background-repeat: no-repeat;
 }
 
-.youtubeIcon:hover, .youtubeIcon:active {
+.youtubeIcon:hover, .youtubeIcon:active, .youtubeIcon:focus {
     background-image: url("../static/youtubeIconActive.png");
 }
 
@@ -279,6 +279,6 @@ button:focus { outline: none; }
     background-repeat: no-repeat;
 }
 
-.periscopeIcon:hover, .periscopeIcon:active {
+.periscopeIcon:hover, .periscopeIcon:active, .periscopeIcon:focus {
     background-image: url("../static/periscopeIconActive.png");
 }
