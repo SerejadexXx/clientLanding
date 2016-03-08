@@ -44,7 +44,8 @@
         margin-top: 100px;
     }
     .index_contact_email {
-        text-align: left;
+        padding-top: 20px;
+        text-align: center;
     }
 }
 @media(min-width:992px){
@@ -56,6 +57,7 @@
         margin-top: 50px;
     }
     .index_contact_email {
+        padding-top: 0;
         text-align: left;
     }
 }
@@ -68,6 +70,7 @@
         margin-top: 50px;
     }
     .index_contact_email {
+        padding-top: 0;
         text-align: left;
     }
     .index_header {
