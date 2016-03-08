@@ -36,6 +36,9 @@
     }
 }
 @media(min-width:768px){
+    .index_contact_header {
+        text-align: center;
+    }
     .index_header_name_container {
         margin-bottom: 240px;
     }
@@ -49,6 +52,9 @@
     }
 }
 @media(min-width:992px){
+    .index_contact_header {
+        text-align: left;
+    }
     .index_header_name_container {
         margin-bottom: 240px;
     }
@@ -62,6 +68,9 @@
     }
 }
 @media(min-width:1200px){
+    .index_contact_header {
+        text-align: left;
+    }
     .index_header_name_container {
         margin-bottom: 240px;
     }
