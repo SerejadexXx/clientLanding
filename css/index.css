@@ -218,6 +218,12 @@ a.index_contact_email {
     text-decoration: none;
 }
 
+p.index_created_by {
+    color: rgb(74, 80, 90);
+    font-size: 18px;
+    text-align: right;
+}
+
 a:hover.index_contact_email, a:active.index_contact_email, a:visited.index_contact_email {
     color: rgb(74, 80, 90);
     text-decoration: underline;
